@@ -1,0 +1,6 @@
+-------global interpreter lock of pyhton allo only one thread to be executed at a time. does not allow multi-threading in python to save time.
+
+
+
+what do you mean by MRO?
+-------method resolution order  is set of rule that construct the linearization like in inheritence parent and child
